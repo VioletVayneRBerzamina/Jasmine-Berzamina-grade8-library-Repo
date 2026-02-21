@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jasmineberzamina-g8-library-db",
+  "private_key_id": "18bd22523c58b5c6dd199aea45bfad9b7fad5162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDe/vwfK6krDsZg\n0HN3UU14ZTkXtrt2YDxedQXFDyXbxzasSFVsBPPTomxJvLkw9cS+by38dselAm4H\nHSi7X1eq7XlTyaSGV81mKdJqmm01hznuKb5Z089r8H9EdTheG1zU+Di8xrUI5Gis\n9juqAOgGIiZ8OCetQKTtsO+l8XZ6ra8xbK+YDpNklwdMVQYyC1VmtMZgkD3bbWRD\n+TsyyZytjMwcsDB56uh+O7LbFCu54QeggTCPXKKR7uvSrKhwdHjQ3GYvUGs9NOXw\ny4o4ptpeUVkZjezA6dxvjbRENDtvrzH7NW/KzWmODLsOSCWWdpDsIvF8iIhMM+tE\n41YZgRqHAgMBAAECggEABFl7e0CQdkDXOSIBVo71HWEpqdI/htGquJO8wixUKmmQ\n1SLWDU5tbElxpkbyYvrJ1Ll51dmCD5bKcZ4UFZxVXlKieEvP4NG+m/yhC45DWg6i\nRruoTruiAv93/Z+LTJ6cNjufOhaZul75W08anwUq58+4g3MojVyo7hZY6xoyG7ai\nCIrmPhfH0ImG/HJVanyJHAWoMDhaMWlWO8YxC+1s5NugoNURO2vbRzythPNZwga1\nwMEP8duhJhwGnlFmBYGT/X4vFh/bXLfZy7f2ub3RgGuufouNghGrpBdEgU11uKwA\n4nEIhyX2xpsda0WwjVVjeAXGb8UKsyGU2Y75KY8D2QKBgQDyIW3HG8iTn5BWL06o\nkuXknFwhaZU7sQVQzLZoonLBQQOsoQR/EIqoaDuCS0gFWDinxh5ZSEOfdilUOmZU\nXhv44kbbfP2UejifRWFzX6xG2BBMIfdKyI0QQFsloczl6teLeppk/9O5lH93Xbfx\nPO62Uhwa78SOnTzs9qeVEjBiuQKBgQDrxPgzxFgzp63E4oXxUFTN5w0U+mWbfxzy\nf/ey1n+Bv4ql1F6OxJRRz45Tw0WW6mK/AbH8e6w0zoOotXM4WpoMKfz7uZrG8hXe\nBEfQnP2IFNjKCGvdgT+jCZX4UhqgnL/JlHfr74FnH8OxE9p6cCwxEwTDdJ4mtWrK\nfSGOGDPHPwKBgAyRo6s0TAMtw0ZWClVB2uE1JKsvWenRVJ9PISDpXd+eSlyJtzwJ\nVclML9qhocl1POuooyarU6dRcO/IYEt83yLaTCdUo60zcwEBjv94Ne8vhBkPolCl\nfH0deh3H+mTs/edlo+IeTZVSmhNOMCA7s4CPXpofXCqzCtiaLTTVzuExAoGAPjnZ\nTEhpAxEhYtJqiZsrFsEBieTghl7RNAukQ3YrZwI3xLa9Ui79+m2uYdsq9b7c2w7G\nfB3kAHf09cUWKOx4tfcrBwEgoZtpPBSjI6Mboxvlb8UzOt4O/qfcBhMdZgCY+coO\nsJ2g6KfQjV7xDdmnQDiFzFRuHUdKbTEDdy5aFB8CgYA57w4HoDF2AVaLbcf2CR4M\n5SgAtGFXz7lG93D4O/+QTy9zgQJA3MXtp3QcvJTdE/Ent6jtuAUMo7Sbbg0fcEPK\nAtFrGtsJhPsppZBV4FbvpGvxTOkMiazjs9EUKNG7Mrj3UNlMRJ57iflFjDhyJycz\nBQAUszdz1ntlKbgyBhVzgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@jasmineberzamina-g8-library-db.iam.gserviceaccount.com",
+  "client_id": "108594489944374988327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40jasmineberzamina-g8-library-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
